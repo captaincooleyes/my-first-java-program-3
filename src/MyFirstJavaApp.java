@@ -32,7 +32,7 @@ public class MyFirstJavaApp {
        System.out.println("Optical Zoom: " + opticalZoom + "x");
        System.out.println("Photo sensor: " + photoSensor + "mm");
        System.out.println("Video capture resolution: " + videoCaptureResolution + "p");
-       System.out.println("Color " + cameraColor + " (b-black, s-silver)");
-
+       System.out.println("Color: " + cameraColor + " (b-black, s-silver)");
+       System.out.println("Serial number: " + serialNumber);
     }
 }
